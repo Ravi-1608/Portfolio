@@ -1,0 +1,16 @@
+
+
+ul li a img{
+    height: 1.5rem;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 50%;
+    background-color: #ffffff69;
+
+}
+ul li a img:hover{
+    box-shadow: 0px 0px 6px 4px rgba(240, 88, 223);
+
+    
+}
+

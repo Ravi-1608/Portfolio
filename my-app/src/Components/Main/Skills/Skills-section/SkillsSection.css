@@ -1,0 +1,97 @@
+.Skills{
+    width: 100%;
+    height: auto;
+    margin-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Skills section{
+    margin: 2rem;
+    margin-right: 8rem;
+    width: 10rem;
+    height: 1.2rem;
+    background-color:#dfdfdf;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 2vh;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+    text-align: justify;
+   
+    
+}
+.Skills section div p{
+    margin: 0%;
+   
+}
+
+
+.skills-1{
+    position: relative;
+    left: -10px;
+    margin-top: -10px;
+    width: 7rem;
+    padding: 10px;
+    background-color:rgb(0, 207, 0);
+    border-radius: 20px;
+}
+.skills-2{
+        position: relative;
+        left: -10px;
+        margin-top: -10px;
+        width: 8rem;
+        padding: 10px;
+        background-color:rgb(0, 207, 0);
+        border-radius: 20px;            
+}
+
+.skills-3{
+            position: relative;
+            left: -10px;
+            margin-top: -10px;
+            width: 8rem;
+            padding: 10px;
+            background-color:rgb(0, 207, 0);
+            border-radius: 20px;
+}
+
+.skills-4{
+                position: relative;
+                left: -10px;
+                margin-top: -10px;
+                width: 7rem;
+                padding: 10px;
+                background-color:rgb(0, 207, 0);
+                border-radius: 20px;
+}
+
+.skills-5{
+    position: relative;
+    left: -10px;
+    margin-top: -10px;
+    width: 6rem;
+    padding: 10px;
+    background-color:rgb(0, 207, 0);
+    border-radius: 20px;
+}
+
+.skills-6{
+    position: relative;
+    left: -10px;
+    margin-top: -10px;
+    width: 9rem;
+    padding: 10px;
+    background-color:rgb(0, 207, 0);
+    border-radius: 20px;
+}
+
+.skills-7{
+    position: relative;
+    left: -10px;
+    margin-top: -10px;
+    width: 9rem;
+    padding: 10px;
+    background-color:rgb(0, 207, 0);
+    border-radius: 20px;
+}

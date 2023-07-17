@@ -1,0 +1,38 @@
+.portfolio-section{
+    width: 75%;
+    height: 50rem;
+    margin: auto;
+    
+    
+}
+.portfolio-section h1{
+    text-align: center;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+  
+}
+
+.portfolios{
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.portfolios section{
+    width: 18em;
+    height: 18em;
+    padding-left: 3em;
+    margin: 20px;
+
+}
+
+.portfolios section img{
+    position: relative;
+    left: -20px;
+    width: 18em;
+    height: 18em;
+    
+}
+
+

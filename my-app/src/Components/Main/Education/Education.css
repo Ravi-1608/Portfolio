@@ -1,0 +1,51 @@
+.Education-Section{
+    position: relative;
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    height: auto;
+    padding-bottom: 1rem;
+   
+}
+
+
+.Education-Section section{
+    position: relative;
+    left: 5%;
+   
+    width: 40%;
+    min-height: 150px;
+    margin: 5px;
+
+}
+
+.Education-Section h2{
+    color: #236bff;
+    height: 50%;
+    text-align: right;
+    margin: 2px;
+    
+}
+.Education-Section h3{
+    color: #ff7d00;
+    height: 50%;
+    text-align: right;
+    margin: 2px;
+}
+.Education-Section h4{
+    color: #918c8c;
+    height: 50%;
+    text-align: right;
+    margin: 2px;
+}
+.Education-Section p{
+    text-align: justify;
+    margin-top: 0%;
+    color: #918c8c;
+}
+
+.Education-Section section:nth-child(2n){
+    left: 53%;
+
+}
+

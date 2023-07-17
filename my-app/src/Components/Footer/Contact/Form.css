@@ -1,0 +1,40 @@
+.form-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-section input{
+    
+    padding: 1em;
+    padding-right: 17em;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    margin: 1em 0em 3em 0em;
+    margin-bottom: 2em;
+    width: 10em;
+    border: none;
+    background-color: #e1362100;
+    border-bottom: 3px solid white;
+}
+
+.message-section{
+    padding: 1em;
+    padding-right: 17em;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    margin: 1em 0em 3em 0em;
+    margin-bottom: 2em;
+    width: 10em;
+    border: none;
+    background-color: #e1362100;
+    border-bottom: 3px solid white;
+}
+#submit{
+    padding: 0.6rem;
+    background-color: #e1362100;
+    border: 3PX solid white;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    color: white;
+    font-weight: 600;
+}
